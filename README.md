@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 
 
-If you want to clone this repository, clone into your desire folder and enter "git clone https://github.com/mumbereh/my-portfolio.git into your terminal
+If you want to clone this repository, clone into your desire folder and enter "git clone https://github.com/mumbereh/Hello-microverse-project.git into your terminal
  
 
 
